@@ -4,6 +4,12 @@ Welcome to my corner of the internet
 ## ✨ About Me
 - 🌱 I’m currently learning go, block-chain
 
+## 📈 My stats
+<img width="420" height="165" alt="image" src="https://github.com/user-attachments/assets/b41808eb-ef6c-42bf-b9a8-3a920b110869" />
+
+<img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/ff5c537f-b595-470f-9a9e-4d5934896d0f" />
+
+
 <!---
 idonkeyliu/idonkeyliu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
